@@ -1,3 +1,5 @@
+To install the requirements given below follow this command : sudo -H pip3 install -r requirements.txt
+
 certifi==2020.6.20
 chardet==3.0.4
 future==0.18.2
